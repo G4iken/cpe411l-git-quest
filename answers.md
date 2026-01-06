@@ -4,3 +4,4 @@ LEVEL 3 COMPLETE: SUNSET-19
 LEVEL 4 COMPLETE: fixed the hallway sign
 LEVEL 5 COMPLETE: I am on branch student-elmo
 LEVEL 6 CHEST CODE: FOX-7
+LEVEL 7 COMPLETE: I defeated the mini-boss using diff
